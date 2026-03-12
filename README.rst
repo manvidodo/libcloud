@@ -5,6 +5,16 @@ Apache Libcloud is a Python library which hides differences between different
 cloud provider APIs and allows you to manage different cloud resources
 through a unified and easy to use API.
 
+Who should use Apache Libcloud?
+====================================================
+
+Apache Libcloud is useful for developers and teams who work with multiple cloud
+providers and want to avoid learning different APIs for each platform.
+It is especially helpful in multi-cloud or hybrid cloud environments where
+applications need to remain portable.
+By using a single unified API, developers can reduce development effort,
+simplify maintenance, and switch cloud providers with minimal code changes.
+
 
 .. image:: https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat
         :target: https://libcloud.readthedocs.org
